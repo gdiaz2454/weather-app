@@ -1,0 +1,18 @@
+#date{
+  background-color: lightgray;
+  width: 100px;
+  height: 45px;
+}
+#tempswinds{
+  background-color: rgb(86, 142, 191);
+  width: 100px;
+  height: 45px;
+}
+
+body {
+    background-image: url("http://exchangedownloads.smarttech.com/public/content/c7/c7b7d2f6-0e68-41bc-b320-063ae2783f69/previews/medium/0001.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+}
